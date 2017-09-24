@@ -1,2 +1,2 @@
 language: java
-script: mvn test
+before_script: cd my-app
